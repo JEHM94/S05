@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loggy</string>
+    <string name="remember">Remember</string>
+    <string name="log_in">LOG IN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="log_out">Log out</string>
+    <string name="forget_and_log_out">Forget and Log out</string>
+</resources>
